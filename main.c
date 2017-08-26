@@ -434,5 +434,6 @@ int simulate(int n1, int n2, char **a, double f, int step_times) {
         return 0;               //failure
     
 }
+//test edit git
 
 
